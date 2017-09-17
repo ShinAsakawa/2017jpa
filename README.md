@@ -15,6 +15,25 @@ This code contains tools for building a dataset and a jupyter notebook for imple
 本ファイルは日本心理学会第81回大会 2017年9月開催で発表された `近藤 and 浅川` のデモ用ファイルです。
 ご自由にお使いください。ただし著作権を放棄しているわけではありません。
 
+---
+
+## Usage
+
+1. from command line, you can execute juypter notebook as follows:
+```bash
+jupyter notebook
+```
+
+2. You can then make a double click `2017jpa_word2vec_demo.ipynb` to run the demo.
+
+3. You can also chose one of four models pretrained by Shin Asakawa <asakawa@ieee.org>
+
+## Comment or questions?
+
+Any comments or suggestions will be welcome, please feel free ask us! :)
+
+
+
 ## References
 
 [1] Mikolov et. al (2013) Distributed Representations of Words and Phrases and their Compositionality
